@@ -14,7 +14,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List your project dependencies here
-        'random',
+        
     ],
     entry_points={
         'console_scripts': [
